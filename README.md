@@ -81,7 +81,7 @@ Then, open your browser and go to:
 
 ## 📌 Notes
 
-- Ensure `InceptionV3_model.h5` and `haarcascade_frontalface_default.xml` are in the root directory.
+- Ensure `InceptionV3_model.h5`  https://drive.google.com/file/d/1CwnAawzASVsxn8WsL2GF-nSlWzNqgRA9/view?usp=share_link and `haarcascade_frontalface_default.xml` are in the root directory.
 - Place your HTML UI files inside the `templates/` folder.
 - Uploaded images are stored temporarily in `uploads/`.
 
