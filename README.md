@@ -94,6 +94,11 @@ The dataset used for training and evaluation is available on Kaggle:
 
 ---
 
+## Output
+<img width="1440" height="900" alt="Screenshot 2025-02-28 at 6 42 55 PM" src="https://github.com/user-attachments/assets/a2c3cfd2-ce76-40b7-8ed6-4a5dc53b6b29" />
+
+
+
 ## 📃 License
 
 This project is intended for academic and educational purposes only.
